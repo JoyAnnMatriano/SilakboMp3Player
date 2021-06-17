@@ -501,7 +501,7 @@ submenu.add_command(label = "10 seconds", command = delay1)
 submenu.add_command(label = "30 seconds", command = delay2)
 submenu.add_command(label = "1 minute", command = delay3)
 submenu.add_command(label = "30 minutes", command = delay4)
-submenu.add_command(label = "1 hour", command = delay5)
+submenu.add_command(label = "an hour", command = delay5)
 
 
 main_menu.add_cascade(label="Quit", command = quit)
